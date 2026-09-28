@@ -1,0 +1,5 @@
+# LessBlue
+
+## License
+
+[MIT](LICENSE)

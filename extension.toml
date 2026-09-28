@@ -1,0 +1,7 @@
+id = "lessblue-theme"
+name = "LessBlue"
+version = "0.1.0"
+schema_version = 1
+authors = ["ThaiDat"]
+description = ""
+repository = "https://github.com/ThaiDat/lessblue-theme-zed"
