@@ -1,0 +1,18 @@
+name: Publish to Zed Store
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  publish:
+    name: Release Zed Extension
+    runs-on: ubuntu-latest
+    steps:
+      - uses: huacnlee/zed-extension-action@v2
+        with:
+          extension-name: lessblue-theme
+          push-to: ThaiDat/extensions
+        env:
+          COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}   
