@@ -38,8 +38,8 @@
         "editor.line_number": "#928D88",
         "editor.active_line_number": "#DCD6CE",
         "editor.document_highlight.bracket_background": "#16272033",
-        "editor.document_highlight.read_background": "#1B242D33",
-        "editor.document_highlight.write_background": "#1B242D4D",
+        "editor.document_highlight.read_background": "#301B2033",
+        "editor.document_highlight.write_background": "#301B204D",
         "search.match_background": "#F6CF4C4D",
         "text": "#C2BEB9",
         "text.muted": "#7E858C",
@@ -151,7 +151,7 @@
         "hidden.background": "#00000000",
         "hidden.border": "#00000000",
         "link_text.hover": "#72B2B5",
-        "vim.yank.background": "#1B242D66",
+        "vim.yank.background": "#301B2066",
         "syntax": {
           "attribute": {
             "color": "#B87F95"
