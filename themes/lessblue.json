@@ -7,7 +7,48 @@
       "appearance": "dark",
       "style": {
         "accents": [],
-        "players": [],
+        "players": [
+          {
+            "cursor": "#D7B77E",
+            "background": "#32302D",
+            "selection": "#301B20"
+          },
+          {
+            "cursor": "#ABDCD0",
+            "background": "#32302D",
+            "selection": "#43C6B74D"
+          },
+          {
+            "cursor": "#CFCE79",
+            "background": "#32302D",
+            "selection": "#89CE9B4D"
+          },
+          {
+            "cursor": "#E1DCFF",
+            "background": "#32302D",
+            "selection": "#DC90BB4D"
+          },
+          {
+            "cursor": "#A1C3DA",
+            "background": "#32302D",
+            "selection": "#A1C3DA4D"
+          },
+          {
+            "cursor": "#C4A954",
+            "background": "#32302D",
+            "selection": "#D79C3C4D"
+          },
+          {
+            "cursor": "#5EC48D",
+            "background": "#32302D",
+            "selection": "#5EC48D4D"
+          },
+          {
+            "cursor": "#FFC0B7",
+            "background": "#32302D",
+            "selection": "#FFC0B74D"
+          }
+        ],
         "background.appearance": "opaque",
         "background": "#1D1B19",
         "surface.background": "#181614",
